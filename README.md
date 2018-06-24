@@ -15,4 +15,4 @@ You need to install Node.js on your PC.
 * Then type - npm start.
 
 ## Run
-When you type - **"npm start"** normally open this project on your web browser. If it is take more time you can write - http://localhost:3000 on your web browser.
+When you type - **"npm start"** normally open this project on your web browser. If it takes more time you can write - http://localhost:3000 on your web browser.
