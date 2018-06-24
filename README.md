@@ -3,7 +3,7 @@ A simple stopwatch created with Node.js and React. This is my first project usin
 
 # Dependencies
 
-"bootstrap: 4.1.1",
+"bootstrap: 4.1.1"
 "react: 16.4.1",
 "react-dom: 16.4.1",
 "react-scripts: 1.1.4"
