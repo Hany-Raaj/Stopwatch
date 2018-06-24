@@ -15,4 +15,4 @@ A simple stopwatch created with Node.js and React. This is my first project usin
 * Then type - npm start. <br/>
 
 When you type - **"npm start"** normally open this project on your web browser. If it takes more time you can write - http://localhost:3000 on your web browser.<br/> <br/>
-Notes - *Node.js* download link - https://nodejs.org/en/
+- *Node.js* download link - https://nodejs.org/en/
