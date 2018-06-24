@@ -9,10 +9,9 @@ A simple stopwatch created with Node.js and React. This is my first project usin
 * "react-scripts: 1.1.4" <br/>
 You need to install Node.js on your PC.
 
-## Configuration
+## Configuration and Run
 * Clone this repository.
 * From "Clone folder" use this command - npm install.
-* Then type - npm start.
+* Then type - npm start. <br/> <br/>
 
-## Run
 When you type - **"npm start"** normally open this project on your web browser. If it takes more time you can write - http://localhost:3000 on your web browser.
