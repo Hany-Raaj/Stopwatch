@@ -2,6 +2,7 @@
 A simple stopwatch created with Node.js and React. This is my first project using Node.js and React.
 
 ### Dependencies
+-----------------
 
 * "bootstrap: 4.1.1"
 * "react: 16.4.1",
